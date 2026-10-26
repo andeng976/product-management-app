@@ -1,0 +1,26 @@
+.header {
+  background: #111827;
+  color: white;
+  padding: 25px 6%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20px;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 30px;
+}
+
+.header p {
+  color: #d1d5db;
+}
+
+.cart-counter {
+  background: #facc15;
+  color: #111827;
+  padding: 12px 20px;
+  border-radius: 10px;
+  font-weight: bold;
+}
